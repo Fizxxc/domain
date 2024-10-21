@@ -1,5 +1,5 @@
 const apiKey = 'at_Dl302QLgFSqtERQATMZfoYbSUM8hY'; // Masukkan API key dari layanan API domain yang Anda pilih
-const apiUrl = 'https://domain-availability.whoisxmlapi.com/api/v1?apiKey=at_Dl302QLgFSqtERQATMZfoYbSUM8hY&domainName=example.com' + apiKey;
+const apiUrl = 'https://domain-availability.whoisxmlapi.com/api/v1?apiKey=at_Dl302QLgFSqtERQATMZfoYbSUM8hY&domainName=domain-fizzx.netlify.app' + apiKey;
 
 document.getElementById('domainForm').addEventListener('submit', function(event) {
     event.preventDefault();
